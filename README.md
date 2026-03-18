@@ -60,6 +60,6 @@ Impact
 - Simulated audit procedures
 - Documented control testing results
 
-- <img width="1146" height="627" alt="image" src="https://github.com/user-attachments/assets/f568799f-3ae2-4326-ac24-863a1e360d76" />
+ <img width="1146" height="627" alt="image" src="https://github.com/user-attachments/assets/f568799f-3ae2-4326-ac24-863a1e360d76" />
 
 
