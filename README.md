@@ -20,7 +20,8 @@ This project simulates a real-world GRC program, focusing on identifying, assess
 - Defined threats, vulnerabilities, likelihood, and impact
 - Assigned risk owners and mitigation strategies
 
--https://d.docs.live.net/139c8e69278b1099/Documents/CourseCareer%20Registration/GRC/My%20GRC%20Portfolio/GRC%20CORE%20RISK%20ASSETS.xlsx 
+
+<img width="1422" height="601" alt="image" src="https://github.com/user-attachments/assets/69cae4d4-c540-47a2-b69b-c7ce706911b5" />
 
 
 
