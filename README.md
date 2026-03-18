@@ -24,11 +24,25 @@ This project simulates a real-world GRC program, focusing on identifying, assess
 <img width="1422" height="601" alt="image" src="https://github.com/user-attachments/assets/69cae4d4-c540-47a2-b69b-c7ce706911b5" />
 
 
-
 ### 2. Risk Matrix (5x5)
 - Applied Likelihood × Impact scoring model
 - Categorized risks into Low, Moderate, High, and Critical
 - Established clear risk response actions
+
+<img width="1887" height="632" alt="image" src="https://github.com/user-attachments/assets/7050dd1c-94f1-4916-9345-a2c2535c0c14" />
+
+Visual Risk Matrix ( 5x5 heatmap)
+
+
+Impact
+5 | 🔴 🔴 🔴 🔴 🔴
+4 | 🟠 🟠 🔴 🔴 🔴
+3 | 🟡 🟡 🟠 🟠 🔴
+2 | 🟢 🟡 🟡 🟠 🟠
+1 | 🟢 🟢 🟡 🟡 🟠
+
+
+
 
 ### 3. Access Control Policy
 - Implemented the Least Privilege principle
