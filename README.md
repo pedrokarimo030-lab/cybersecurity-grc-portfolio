@@ -11,6 +11,11 @@ This project simulates a real-world GRC program, focusing on identifying, assess
 - Perform basic audit testing procedures
 - Evaluate third-party/vendor risks
 
+- ## 🚀 Tools & Technologies
+- Microsoft Excel (Risk Register & Audit Testing)
+- Documentation & Reporting Best Practices
+
+
 ---
 
 ## 🧩 Project Components
