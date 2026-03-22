@@ -62,4 +62,7 @@ Impact
 
  <img width="1146" height="627" alt="image" src="https://github.com/user-attachments/assets/f568799f-3ae2-4326-ac24-863a1e360d76" />
 
+Professional Summary (For your Profile Bio)
+Aspiring IT and Cybersecurity professional with a dual focus on Cloud Infrastructure and Governance, Risk, and Compliance (GRC). Proven experience in deploying automated Active Directory environments in Azure and developing risk management programs aligned with NIST and ISO frameworks. Passionate about bridging the gap between technical implementation and regulatory security standards.
+
 
